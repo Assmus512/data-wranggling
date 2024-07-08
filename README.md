@@ -2,13 +2,17 @@
 Preparations for the CAS Data Engineering - Data Wrangling Module
 1. Create the Python Env (reuse it over all the Module exercises )
 ### Using Conda:
+```
 conda env create -f environment.yaml
 python -m ipykernel install --user --name wrangling --display-name "Python (wrangling)"
+```
 
 
 ### If you prefer using pip:
+```
 pip install -r requirements.txt
 python -m ipykernel install --user --name wrangling --display-name "Python (wrangling)"
+```
 
 
 ### If you prefer using Deepnote :
