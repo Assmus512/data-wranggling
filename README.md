@@ -1,5 +1,5 @@
 # Preparations for the CAS Data Engineering - Data Wrangling Module
-1. Create the Python Env (reuse it over all the Module exercises )
+## Create the Python Env (reuse it over all the Module exercises )
 ### Using Conda:
 ```
 conda env create -f environment.yml
