@@ -14,5 +14,6 @@ python -m ipykernel install --user --name wrangling --display-name "Python (wran
 
 
 ### If you prefer using Deepnote :
-```copy the requirements.txt to /root/work/ and run pip install -r requirements.txt
+```
+copy the requirements.txt to /root/work/ and run pip install -r requirements.txt
 ```
