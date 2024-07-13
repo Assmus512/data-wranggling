@@ -3,6 +3,7 @@
 ### 1 clone this repo locally
 ```
 git clone https://github.com/fburnelli/cas_de_data_wrangling_prep.git
+cd cas_de_data_wrangling_prep
 ```
 ###  2 Creating the env using  pip 
 ```
