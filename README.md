@@ -11,7 +11,7 @@ pip install -r requirements.txt
 python -m ipykernel install --user --name wrangling --display-name "Python (wrangling)"
 ```
 
-### 2 (alternative option): If you prefer using Conda instead of pip, this is how to create the env with conda
+### 2 (alternative option): If you prefer using Conda instead of pip for creating the env, this is how to create the env with conda
 ```
 conda env create -f environment.yml
 python -m ipykernel install --user --name wrangling --display-name "Python (wrangling)"
