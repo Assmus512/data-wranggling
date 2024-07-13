@@ -16,3 +16,7 @@ python -m ipykernel install --user --name wrangling --display-name "Python (wran
 conda env create -f environment.yml
 python -m ipykernel install --user --name wrangling --display-name "Python (wrangling)"
 ```
+
+### 3 Test by running a notebook
+
+#####  Open and Run this Jupyter Notebook : Test_Env.ipynb
