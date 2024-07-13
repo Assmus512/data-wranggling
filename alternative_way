@@ -1,0 +1,12 @@
+If you do not want to use PIP to create your ENV can choose one of this alternative options
+
+### OPTION PIP:If you prefer using pip:
+```
+pip install -r requirements.txt
+python -m ipykernel install --user --name wrangling --display-name "Python (wrangling)"
+```
+
+
+### OPTION DeepNote: If you prefer using Deepnote :
+```
+copy the requirements.txt to /root/work/ and run pip install -r requirements.txt
